@@ -17,7 +17,7 @@ Alzheimer’s disease (AD) is a severe neurodegenerative disorder and has become
 4. __*util:*__ Provides utility classes used in this project
 
 ## Results
-This folder contains five files listed below.
+This folder contains three files listed below.
 
 1. DCN_PPI_net.txt: The bipartite network file that contains 18,919 nodes (1,059 disease nodes and 17,860 gene nodes) and 712,803 edges.
 Format: UMLS_ID or gene symbol|UMLS_ID or gene symbol|weight
@@ -29,6 +29,5 @@ Format: UMLS_ID|disease_name
 3. AD_novel_genes.csv: A file that contains novel AD risk genes we predicted from DCN_PPI network
 Format: Rank|Gene
 
-4. ALZGenes.txt: An AD risk gene list file extracted from ALZgene database.
-5. AD_omim_genes.txt: An AD risk gene list file extracted from OMIM.
+
 
