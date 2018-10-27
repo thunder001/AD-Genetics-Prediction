@@ -21,20 +21,20 @@ This folder contains four files listed below.
 
 1. __*fares_comm_net_lift_final_abbr:*__ DCN network file that contains 1,538 disease nodes and 21,312 edges, which was extracted from FAERS using Association Rule Mining
   
-  &nbsp;&nbsp;&nbsp;&nbsp;Format: 
-  &nbsp;&nbsp;&nbsp;&nbsp;dis1_UMLS|dis1_name|dis1_SOC|dis1_SOC_idx|dis2_UMLS|dis2_name|dis2_SOC|dis2_SOC_idx|conf
+  Format: 
+  dis1_UMLS|dis1_name|dis1_SOC|dis1_SOC_idx|dis2_UMLS|dis2_name|dis2_SOC|dis2_SOC_idx|conf
 
-  &nbsp;&nbsp;&nbsp;&nbsp;* *dis1_UMLS:* UMLS code for disorder 1
-  &nbsp;&nbsp;&nbsp;&nbsp;* *dis1_name:* Name for disorder 1
-  &nbsp;&nbsp;&nbsp;&nbsp;* *dis1_SOC:* System Organ Class (MedDRA) for disorder 1
-  &nbsp;&nbsp;&nbsp;&nbsp;* *dis1_SOC_idx:* SOC index for disorder 1
+  * *dis1_UMLS:* UMLS code for disorder 1
+  * *dis1_name:* Name for disorder 1
+  * *dis1_SOC:* System Organ Class (MedDRA) for disorder 1
+  * *dis1_SOC_idx:* SOC index for disorder 1
 
-  &nbsp;&nbsp;&nbsp;&nbsp;* *dis2_UMLS:* UMLS code for disorder 2
-  &nbsp;&nbsp;&nbsp;&nbsp;* *dis2_name:* Name for disorder 2
-  &nbsp;&nbsp;&nbsp;&nbsp;* *dis2_SOC:* System Organ Class (MedDRA) for disorder 2
-  &nbsp;&nbsp;&nbsp;&nbsp;* *dis2_SOC_idx:* SOC index for disorder 2
+  * *dis2_UMLS:* UMLS code for disorder 2
+  * *dis2_name:* Name for disorder 2
+  * *dis2_SOC:* System Organ Class (MedDRA) for disorder 2
+  * *dis2_SOC_idx:* SOC index for disorder 2
 
-  &nbsp;&nbsp;&nbsp;&nbsp;* *conf:* Confidence for disease pair relationship. Since this is an undirected and unweighted graph, value is set to 1.0.
+  * *conf:* Confidence for disease pair relationship. Since this is an undirected and unweighted graph, value is set to 1.0.
 
 1.  __*DCN_PPI_net.txt:*__ The heterogeneous network file that contains 19,398 nodes (1,538 disease nodes and 17,860 gene nodes) and 1,401,358 edges.
 Format: UMLS_ID or gene symbol|UMLS_ID or gene symbol|weight
