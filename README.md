@@ -35,14 +35,18 @@ This folder contains four files listed below.
     * *conf:* Confidence for disease pair relationship. Since this is an undirected and unweighted graph, value is set to 1.0.
 
 2.  __*DCN_PPI_net.txt:*__ The heterogeneous network file that contains 19,398 nodes (1,538 disease nodes and 17,860 gene nodes) and 1,401,358 edges.
-Format: UMLS_ID or gene symbol|UMLS_ID or gene symbol|weight
-Note: The edge weigh is set to 1.0 since the network is undirected and unweighted.
+
+    Format: UMLS_ID or gene symbol|UMLS_ID or gene symbol|weight
+    
+    Note: The edge weigh is set to 1.0 since the network is undirected and unweighted.
 
 3.  __*disUMLS_name.txt:*__ A disease node mapping file from UMLS ID name to disease concept name
-Format: UMLS_ID|disease_name
+
+    Format: UMLS_ID|disease_name
 
 4.  __*AD_novel_genes.csv:*__ A file that contains novel AD risk genes we predicted from DCN_PPI network
-Format: Rank,Gene
+
+    Format: Rank,Gene
 
 
 
