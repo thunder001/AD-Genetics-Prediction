@@ -15,3 +15,20 @@ Alzheimer’s disease (AD) is a severe neurodegenerative disorder and has become
 2. __*network:*__ Provides classes for DCN and DCN0PPI construction
 3. __*graph_algorithm:*__ Provides classes for graph algorithms used in this project, including random walk with restart (rwr),random graph generation and *do novo* predition of AD risk genes
 4. __*util:*__ Provides utility classes used in this project
+
+## Results
+This folder contains five files listed below.
+
+1. DCN_PPI_net.txt: The bipartite network file that contains 18,919 nodes (1,059 disease nodes and 17,860 gene nodes) and 712,803 edges.
+Format: UMLS_ID or gene symbol|UMLS_ID or gene symbol|weight
+Note: The edge weigh is set to 1.0 since the network is undirected and unweighted.
+
+2. disUMLS_name.txt: A disease node mapping file from UMLS ID name to disease concept name
+Format: UMLS_ID|disease_name
+
+3. AD_novel_genes.csv: A file that contains novel AD risk genes we predicted from DCN_PPI network
+Format: Rank|Gene
+
+4. ALZGenes.txt: An AD risk gene list file extracted from ALZgene database.
+5. AD_omim_genes.txt: An AD risk gene list file extracted from OMIM.
+
