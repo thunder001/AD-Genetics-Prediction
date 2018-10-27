@@ -229,32 +229,12 @@ public class RandomWalk {
 	
 	
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
-//		List<String> idnamefiles = new ArrayList<String>();
-//		String mapfile = "/Users/zhengc/workspace/FARES/data/FARES/map/umls_id_name_diso";
-//		idnamefiles.add(mapfile);
-//		try {
-//			CommGeneticsLoader.createIdNameMap(idnamefiles);
-//		} catch (IOException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
-//		
-//		List<String> omimidnamefiles = new ArrayList<String>();
-//		String omimmapfile = "/Users/zhengc/workspace/FARES/data/OMIM/map/OMIM_umls_id_diso";
-//		omimidnamefiles.add(omimmapfile);
-//		try {
-//			CommGeneticsLoader.createOMIMIdNameMap(omimidnamefiles);
-//		} catch (IOException e1) {
-//			// TODO Auto-generated catch block
-//			e1.printStackTrace();
-//		}
 		
 		/*
 		 * Create additional DCN_OMIM map for give disease
 		 */
-		String dcnmapfile = "/Users/zhengc/workspace/FARES_final/data/FARES/map/term_umls_id_diso";
-		String omimmapfile = "/Users/zhengc/workspace/FARES_final/data/OMIM/map/OMIM_umls_id_diso";
+		String dcnmapfile = "./data/term_umls_id_diso";
+		String omimmapfile = "./data/OMIM_umls_id_diso";
 		util.DCNOMIMUMLSIDmap.createDCNIdNameMap(dcnmapfile);
 		util.DCNOMIMUMLSIDmap.createOMIMIdNameMap(omimmapfile);
 		
@@ -267,14 +247,12 @@ public class RandomWalk {
 		/*
 		 * Build the bipartite network
 		 */
-//		String commnetfile = "/Users/zhengc/Projects/AD_comorbidity/data/fares_comm_net_conf_ISMB_final_public.txt";
-		String commnetfile = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN/fares_comm_net_lift_final_abbr.txt";
-		String dmnfile = "/Users/zhengc/workspace/FARES_final/analysis/AD_comorbidity/data/dmn_dm.txt";
-		String ppifile = "/Users/zhengc/workspace/FARES_final/analysis/AD_comorbidity/data/gene_gene_string_cut.txt";
-		String disgenefile = "/Users/zhengc/workspace/FARES_final/data/OMIM/mapped_OMIM/OMIM_disease_gene_umls_id_diso";
+
+		String commnetfile = "./results/fares_comm_net_lift_final_abbr.txt";
+		String ppifile = "./data/gene_gene_string_cut.txt";
+		String disgenefile = "./data/OMIM_disease_gene_umls_id_diso";
 		DisGraph cgg = null;
 		try {
-//			cgg = CommGeneticsLoader.createCommGeneticsGraph(commnetfile, dmnfile, ppifile, disgenefile, dcn_omim);
 			cgg = CommGeneticsLoader.createCommGeneticsGraph(commnetfile, ppifile, disgenefile, dcn_omim);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -288,7 +266,6 @@ public class RandomWalk {
 		
 		List<String> seeds = new ArrayList<>();
 		String seed_dis1 = "dementia";
-//		String seed_dis2 = "thyroid disorder";
 		String seed_dis1_umls = null;
 		if (util.DCNOMIMUMLSIDmap.dcnnameidmap.containsKey(seed_dis1)) {
 			seed_dis1_umls = util.DCNOMIMUMLSIDmap.dcnnameidmap.get(seed_dis1);
@@ -298,7 +275,7 @@ public class RandomWalk {
 			System.out.println(seed_dis1 + " is NOT included in our network!");
 		}
 		
-		String seed_genes_file = "/Users/zhengc/workspace/FARES_final/analysis/AD_comorbidity/data/AD_omim_genes.txt";
+		String seed_genes_file = "./data/AD_omim_genes.txt";
 		List<String> seed_genes = FileToList.createListFromfile(seed_genes_file);
 		
 		seeds.addAll(seed_genes);
@@ -315,18 +292,15 @@ public class RandomWalk {
 		/*
 		 * Random walk
 		 */
-		
-//		RandomWalk rwrank = new RandomWalk(cgg, seeds_vec, 0.15);
+
 		RandomWalk rwrank = new RandomWalk(cgg, seeds_vec, 0.5);
 		Map<String, Integer> result = rwrank.getRWRank();
 
 		/*
 		 * Process result and write to file
 		 */
-		
-		
-//		String rankfile = "/Users/zhengc/Projects/AD_comorbidity/results/AD_gene_novel_rank_steady_wodmn_donovo_final_0.15.csv";
-		String rankfile = "/Users/zhengc/Projects/AD_comorbidity/results/AD_gene_novel_rank_steady_wodmn_donovo_lift_final_0.5.csv";
+
+		String rankfile = "./results/AD_novel_genes.csv";
 		try {
 			saveRankfile(result, rankfile);
 		} catch (IOException e) {

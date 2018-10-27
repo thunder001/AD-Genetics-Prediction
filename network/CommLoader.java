@@ -486,23 +486,21 @@ public class CommLoader {
 	public static void main(String[] args) throws IOException {
 		/* Create disease comorbidity network
 		 * Write network to a file
-		 * Query network
 		 */
 //		**************** rule file *************************
 		
-		String rulefile = "/Users/zhengc/workspace/FARES_final/data/FARES/UMLS_map_data/"
-				+ "ID_indications_all_clean_width_umls_id_diso_filtered_sp_lift_1_0.000002_3_processed.txt";
+		String rulefile = "./data/ID_indications_all_clean_width_umls_id_diso_filtered_sp_lift_1_0.000002_3_processed.txt";
 
 //		**************** UMLS id to disease name map file file *************************
 
-		String mapfile = "/Users/zhengc/workspace/FARES_final/data/FARES/map/umls_id_name_diso";		
+		String mapfile = "./data/umls_id_name_diso";		
 		
 //		**************** network file to be saved *************************
-		String netfile = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN/fares_comm_net_conf_final_abbr.txt";
+		String netfile = "./results/fares_comm_net_conf_final_abbr.txt";
 //		String netfile = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN/fares_comm_net_lift_final_abbr.txt";
 
 //		**************** term file to be saved *************************
-		String termfile = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN/fares_comm_net_term_lift_final_public.txt";	
+		String termfile = "./results/fares_comm_net_term_lift_final_public.txt";	
 
 		
 		
@@ -522,88 +520,9 @@ public class CommLoader {
 
 		createIdNameMap(mapfile);
  		
-//		writeCommNet(commnet, netfile);
-//		writeTerms(termfile);
-		
-		
-		// Print all diseases
-//		List<String> disList = new ArrayList<String>();
-//		for (String dis : disease_index.keySet()) {
-//			dis.trim();
-//			disList.add(idnamemap.get(dis));
-//		}
-//		Collections.sort(disList);
-//		
-//		System.out.println();
-//		System.out.println(disList.size());
-//		for (String dis : disList) {
-//			System.out.println(dis);
-//		}
+		writeCommNet(commnet, netfile);
+		writeTerms(termfile);
 
-		
-		// display neibor degree distribution
-//		Map <Integer, Integer> dis_neibor = getDegDistri(commnet);
-//		
-//		
-//		System.out.println("Number of disease comorbidity distribution: ");
-//		for (int k : dis_neibor.keySet()) {
-//			System.out.println(k + ":" + idnamemap.get(index_disease.get(k)) + ": " + dis_neibor.get(k));
-//		}
-//		
-//		String degreefile = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN/fares_comm_net_degree_lift_adj.txt";
-//		writeNodeDeg(commnet, degreefile);
-		
-
-		
-		
-//		for (int j=0; j<200; j++) {
-//			System.out.println(j + ":\n" + commMatrix.getNeibor(j));
-//		}
-		
-		
-//		####################################################################
-//		---------------------Randomize network analysis -----------------------------
-//		####################################################################
-		
-//		String adjfile = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN_random_deg/net_adj_2.txt";
-//		String netdir = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN_random_er/";
-//
-//		// String netdir = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN_random_er/";
-////		DisGraph rdg = createRandNet(rulefile);
-//		DisGraph rdg = createERNet(rulefile);
-////		DisGraph rdg = createCommNetFromAdjFile(rulefile, adjfile);
-//		
-//		// compare random graph with original graph: comorbidities for specific disease
-//		String dis1 = "dementia";
-//		String dis2 = "dementia";
-//		List<String> neibors_comm = compareGraph(commnet, rdg, dis1, dis2);
-//		
-//		String rnetfile = netdir + "lift_5" + ".txt";
-//		CommLoader.writeCommNet(rdg,rnetfile);
-
-		
-
-//		####################################################################
-//		------------------ Build and save randomized networks to files ----------------
-//		####################################################################		
-		
-//		String netdir = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN_random/";
-//		int N = 1000;
-//		for (int i=0; i<N; i++) {
-//			System.out.printf("\nRandom graph %d\n",i);
-//			
-//			DisGraph rg = createRandNet(rulefile);
-//			System.out.println(rg.getEdges());
-//			
-//			String rnetfile = netdir + "lift_" + i + ".txt";
-//			CommLoader.writeCommNet(rg,rnetfile);
-//			
-//			String rdegreefile = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN_random/fares_comm_net_degree_lift.txt";
-//			CommLoader.writeNodeDeg(rg, rdegreefile);
-//
-//		}
-		
-		
 	}
 }	
 

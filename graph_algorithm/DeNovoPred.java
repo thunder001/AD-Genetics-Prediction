@@ -81,13 +81,20 @@ public class DeNovoPred {
 		// step 1: build DCN-PPI network
 		System.out.println("Building DCN network...");
 		
-		String commnetfile = args[0];
-		String ppifile = args[1];
-		String disgenefile = args[2];
+//		String commnetfile = args[0];
+//		String ppifile = args[1];
+//		String disgenefile = args[2];
+		
+		String commnetfile = "./data/fares_comm_net_lift_final_abbr.txt";
+		String ppifile = "./data/gene_gene_string_cut.txt";
+		String disgenefile = "./data/OMIM_disease_gene_umls_id_diso";
 		
 		
-		String dcnmapfile = args[3];
-		String omimmapfile = args[4];
+//		String dcnmapfile = args[3];
+//		String omimmapfile = args[4];
+		
+		String dcnmapfile = "./data/term_umls_id_diso";
+		String omimmapfile = "./data/OMIM_umls_id_diso";
 		util.DCNOMIMUMLSIDmap.createDCNIdNameMap(dcnmapfile);
 		util.DCNOMIMUMLSIDmap.createOMIMIdNameMap(omimmapfile);
 		String DCN_dis = "dementia";
@@ -107,9 +114,13 @@ public class DeNovoPred {
 		
 		
 		// step 2: optimize restart probability
-		String rulefile = args[5];
-		String donovoDir = args[6]
-		String predType = args[7]
+//		String rulefile = args[5];
+//		String donovoDir = args[6]
+//		String predType = args[7]
+				
+		String rulefile = "./data/ID_indications_all_clean_width_umls_id_diso_filtered_sp_lift_1_0.000002_3_processed.txt";
+		String donovoDir = "./results/evaluation/";
+		String predType = "pred" //"optimize", "random" or "pred"
 		
 		if (preType=="optimize") {
 			/**

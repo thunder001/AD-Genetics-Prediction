@@ -677,10 +677,10 @@ public class CommGeneticsLoader {
 //		----------------------- Method 1: Build network from files  --------------------
 //		#########################################################################
 		
-//		/*
-//		 * Create additional DCN_OMIM map for give disease
-//		 */
-//		
+		/*
+		 * Create additional DCN_OMIM map for give disease
+		 */
+		
 //		String DCN_dis = "dementia";
 //		String OMIM_pat = "alzheimer";
 //		
@@ -711,15 +711,15 @@ public class CommGeneticsLoader {
 //			e.printStackTrace();
 //		}
 //		
-		
-		
-		/* Write commgenetics file */
+//		
+//		
+//		/* Write commgenetics file */
 //		String netfile = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN_PPI/DCN_PPI_net_lift.txt";
 //		writeCommGeneticsNet(cgg, netfile);
 //		
 //		String disUMLS_name_file = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN_PPI/disUMLS_name_lift.txt";
 //		writeDCNIdName(commnetfile, disUMLS_name_file);
-		
+//		
 //		String dcnmapfile = "/Users/zhengc/workspace/FARES_final/data/FARES/map/term_umls_id_diso";
 //		util.DCNOMIMUMLSIDmap.createDCNIdNameMap(dcnmapfile);
 //		String diseaseid = util.DCNOMIMUMLSIDmap.dcnnameidmap.get(DCN_dis);
@@ -758,12 +758,10 @@ public class CommGeneticsLoader {
 		 * Build heterogenous network
 		 */
 
-		String rulefile = "/Users/zhengc/workspace/FARES_final/data/FARES/UMLS_map_data/"
-				+ "ID_indications_all_clean_width_umls_id_diso_filtered_sp_lift_1_0.000002_3_processed.txt";
-		String commnetfile = "/Users/zhengc/workspace/FARES_final/analysis/network/DCN/fares_comm_net_lift_final_abbr.txt";;
-//		String dmnfile = "/Users/zhengc/workspace/FARES_final/analysis/AD_comorbidity/data/dmn_dm.txt";
-		String ppifile = "/Users/zhengc/workspace/FARES_final/analysis/AD_comorbidity/data/gene_gene_string_cut.txt";
-		String disgenefile = "/Users/zhengc/workspace/FARES_final/data/OMIM/mapped_OMIM/OMIM_disease_gene_umls_id_diso";
+		String rulefile = "./data/ID_indications_all_clean_width_umls_id_diso_filtered_sp_lift_1_0.000002_3_processed.txt";
+		String commnetfile = "./results/fares_comm_net_lift_final_abbr.txt";;
+		String ppifile = "./data/gene_gene_string_cut.txt";
+		String disgenefile = "./data/OMIM_disease_gene_umls_id_diso";
 		
 		CommLoader.readAssocRules(rulefile);
 		DisGraph commnet = CommLoader.createCommNet(rulefile);
@@ -776,5 +774,11 @@ public class CommGeneticsLoader {
 		DisGraph cgg2 = createCommGeneticsGraph(commnet, ppinet, dis_gene);
 		System.out.println(cgg2.getEdges());
 		System.out.println(cgg2.getNodes());
+		
+		String netfile = "./results/DCN_PPI/DCN_PPI_net_lift.txt";
+		writeCommGeneticsNet(cgg, netfile);
+		
+		String disUMLS_name_file = "./results/disUMLS_name_lift.txt";
+		writeDCNIdName(commnetfile, disUMLS_name_file);
 	}
 }
