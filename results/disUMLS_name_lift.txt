@@ -1,0 +1,1538 @@
+C0000731|abdominal distention
+C0000737|abdominal pain
+C0000833|abscess
+C0001139|infection, acinetobacter
+C0001175|acquired immunodeficiency syndrome
+C0001206|acromegaly
+C0001327|laryngitis
+C0001418|adenocarcinoma
+C0001486|adenovirus
+C0001511|adhesion
+C0001539|adjustment disorder with depressed mood
+C0001621|adrenal disorder
+C0001807|aggression
+C0001815|primary myelofibrosis
+C0001818|agoraphobia
+C0001973|alcoholism
+C0002170|alopecia
+C0002171|alopecia areata
+C0002351|altitude illness
+C0002622|amnesia
+C0002726|amyloidosis
+C0002736|amyotrophic lateral sclerosis
+C0002792|anaphylactic reaction
+C0002871|anemia
+C0002874|aplastic anaemia nos
+C0002878|haemolytic anaemia
+C0002880|autoimmune haemolytic anaemia
+C0002892|pernicious anaemia
+C0002893|refractory anaemia
+C0002895|sickle cell anaemia
+C0002940|aneurysm
+C0002962|angina pectoris
+C0002963|angina, prinzmetal
+C0002994|angiooedema
+C0003123|anorexia
+C0003469|anxiety disorder
+C0003504|aortic incompetence
+C0003507|aortic stenosis
+C0003621|appetite disorder
+C0003811|arrythmia
+C0003838|arterial occlusive disease
+C0003850|arteriosclerosis
+C0003851|arteriosclerosis obliterans
+C0003860|arteritis
+C0003862|arthralgia
+C0003864|arthritis
+C0003868|arthritis, gouty
+C0003872|arthritis, psoriatic
+C0003873|rheumatoid arthritis
+C0003962|ascites
+C0003969|vitamin c deficiency
+C0004030|aspergillosis
+C0004093|asthenia
+C0004095|asthenopia
+C0004096|asthma
+C0004114|astrocytoma
+C0004153|atherosclerosis
+C0004238|atrial fibrillation
+C0004352|autistic disorder
+C0004576|babesiosis
+C0004601|back injury
+C0004610|bacteraemia nos
+C0004623|bacterial infection
+C0004779|basal cell naevus syndrome
+C0004936|psychiatric disorder
+C0004943|behcet's
+C0005283|thalassemia beta
+C0005586|bipolar affective disorder
+C0005684|bladder cancer
+C0005686|bladder disorder
+C0005694|bladder outlet obstruction
+C0005697|neurogenic bladder
+C0005741|blepharitis
+C0005747|blepharospasm
+C0005758|bleb
+C0005779|coagulation disorder (nos)
+C0005818|platelet disorder
+C0005940|bone disorder (nos)
+C0005956|bone marrow condition
+C0005967|bone neoplasm
+C0006012|borderline personality disorder
+C0006111|encephalopathy
+C0006118|brain neoplasm
+C0006142|breast cancer
+C0006261|bronchial disorder
+C0006264|bronchial neoplasm
+C0006266|bronchospasm
+C0006267|bronchiectasis
+C0006271|bronchiolitis
+C0006272|bronchiolitis obliterans
+C0006277|bronchitis
+C0006285|bronchopneumonia
+C0006287|bronchopulmonary dysplasia
+C0006444|bursitis
+C0006625|cachexia
+C0006705|calcium metabolism disorder
+C0006840|candidal infection
+C0006849|oral thrush
+C0007102|colon cancer
+C0007107|laryngeal cancer
+C0007113|rectal cancer
+C0007114|skin cancer
+C0007115|thyroid cancer
+C0007117|basal cell carcinoma
+C0007121|bronchial carcinoma
+C0007131|lung cancer non-small cell
+C0007134|renal cell carcinoma
+C0007138|carcinoma, transitional cell
+C0007194|cardiomyopathy, hypertrophic obstructive
+C0007222|cardiovascular disorder (nos)
+C0007282|carotid artery stenosis
+C0007286|carpal tunnel syndrome
+C0007302|cartilage disorder
+C0007384|cataplexy
+C0007398|catatonia
+C0007642|cellulitis
+C0007758|cerebellar ataxia
+C0007780|cerebral artery embolism
+C0007785|cerebral infarction
+C0007789|cerebral palsy
+C0007820|cerebrovascular disorder (nos)
+C0008031|chest pain
+C0008035|musculoskeletal chest pain
+C0008049|varicella
+C0008149|chlamydial infection
+C0008301|choking
+C0008311|cholangeitis
+C0008313|cholangitis sclerosing
+C0008350|cholelithiasis
+C0008370|bile duct obstruction
+C0008533|deficiency, factor ix
+C0008628|chromosomal deletion
+C0009088|cluster headaches
+C0009241|cognitive disorder
+C0009319|colitis
+C0009375|colon neoplasm
+C0009402|large intestine carcinoma
+C0009450|infection, nos
+C0009566|complication
+C0009676|confusional state
+C0009763|conjunctivitis
+C0009782|connective tissue disorder
+C0009791|consciousness
+C0009938|contusion
+C0010043|corneal ulcer
+C0010054|coronary atherosclerosis
+C0010346|crohns disease
+C0010403|cryoglobulinaemia, nos
+C0010414|cryptococcosis
+C0010674|cystic fibrosis
+C0010709|cyst
+C0010823|cytomegalovirus infection
+C0011127|pressure sore
+C0011168|dysphagia
+C0011175|dehydration
+C0011206|delirium
+C0011226|hepatitis d
+C0011251|delusional disorder
+C0011253|delusion
+C0011265|dementia
+C0011268|senile dementia
+C0011269|dementia, vascular
+C0011570|depression
+C0011581|depression
+C0011603|dermatitis
+C0011609|drug eruption
+C0011616|dermatitis contact
+C0011630|fungal skin infection
+C0011847|diabetes
+C0011848|diabetes insipidus
+C0011849|diabetes mellitus
+C0011854|diabetes mellitus, type i
+C0011860|diabetes mellitus, type ii
+C0011875|diabetic vascular disorder
+C0011880|diabetic ketoacidosis
+C0011881|diabetic nephropathy
+C0011882|diabetic neuropathy
+C0011884|diabetic retinopathy
+C0012624|intervertebral discitis
+C0012634|disease
+C0012691|joint dislocation
+C0012715|metabolism disorder, iron
+C0012739|disseminated intravascular coagulation
+C0012746|conversion disorder
+C0012813|diverticulitis
+C0012817|diverticulum
+C0013080|trisomy 21
+C0013132|drooling
+C0013146|drug abuse
+C0013182|drug hypersensitivity
+C0013274|ductus arteriosus, patent
+C0013295|duodenal ulcer
+C0013336|dwarfism
+C0013378|dysgeusia
+C0013384|dyscinesia
+C0013390|menstrual cramps
+C0013395|dyspepsia
+C0013404|dyspnoea
+C0013415|dysthymic disorder
+C0013421|dystonia
+C0013428|painful urination
+C0013447|ear disorder (nos)
+C0013456|ear pain
+C0013473|eating disorder
+C0013595|eczema
+C0013604|oedema
+C0013609|local swellings
+C0013990|emphysema
+C0014009|empyema
+C0014038|encephalitis
+C0014118|endocarditis
+C0014130|endocrine disorder
+C0014175|endometriosis
+C0014236|endophthalmitis
+C0014335|enteritis
+C0014356|enterocolitis
+C0014394|enuresis
+C0014518|necrolysis, toxic epidermal
+C0014534|epididymitis
+C0014544|seizure disorder
+C0014549|epilepsy grand mal
+C0014550|myoclonic epilepsy
+C0014553|epilepsy petit mal
+C0014556|psychomotor seizures
+C0014557|posttraumatic epilepsy
+C0014591|nosebleed
+C0014724|eructation
+C0014733|erysipelas
+C0014742|erythema multiforme
+C0014852|esophageal disorder
+C0014863|oesophageal spasm
+C0014866|oesophageal stenosis
+C0014868|oesophagitis
+C0015230|rash
+C0015256|excoriation
+C0015371|extrapyramidal disorder (nos)
+C0015397|eye disorder (nos)
+C0015402|ocular hemorrhage
+C0015403|eye infection
+C0015468|facial pain
+C0015499|deficiency, factor v
+C0015672|fatigue
+C0015674|chronic fatigue syndrome
+C0015732|fecal incontinence
+C0015934|microsomia
+C0015967|febrile
+C0016053|fibromyalgia
+C0016085|filariasis
+C0016167|anal fissure
+C0016169|fistula
+C0016199|flank pain
+C0016397|localised infection
+C0016412|folate deficiency
+C0016436|folliculitis
+C0016470|allergy, food
+C0016579|formication
+C0016658|fracture
+C0016664|fracture, stress
+C0017152|gastritis
+C0017155|gastric mucosal hypertrophy
+C0017160|gastroenteritis
+C0017168|gastrooesophageal reflux disease
+C0017178|gastroenteropathy
+C0017181|gastrointestinal haemorrhage
+C0017185|gastrointestinal neoplasm
+C0017547|gigantism
+C0017574|gingivitis
+C0017605|angle closure glaucoma
+C0017612|glaucoma, open angle
+C0017636|glioblastoma multiforme
+C0017658|glomerulonephritis
+C0017668|focal segmental glomerulosclerosis
+C0017675|glossitis
+C0017921|glycogen storage disease type ii
+C0018021|goitre
+C0018099|gout
+C0018133|graft versus host disease
+C0018203|chronic granulomatous disease
+C0018500|hair disorder
+C0018524|hallucination
+C0018621|seasonal allergic rhinitis
+C0018674|head injury
+C0018681|headache
+C0018790|arrest, cardiac
+C0018799|disease, cardiac
+C0018800|cardiomegaly
+C0018801|cardiac failure
+C0018808|cardiac murmur
+C0018817|atrial septal defect
+C0018818|ventricular septal defect
+C0018824|cardiac valvulopathy
+C0018924|hemarthrosis
+C0018926|hematemesis
+C0018939|blood disorder
+C0018965|blood urine
+C0018995|haemochromatosis
+C0019054|hemolysis
+C0019061|haemolytic uraemic syndrome, nos
+C0019069|haemophilia a, nos
+C0019079|coughing blood
+C0019080|hemorrhage
+C0019114|haemosiderosis
+C0019151|encephalopathy, hepatic
+C0019154|hepatic vein thrombosis
+C0019156|venoocclusive liver disease
+C0019159|hepatitis
+C0019163|hepatitis b
+C0019189|chronic hepatitis
+C0019196|hepatitis c
+C0019243|c1 esterase inhibitor deficiency
+C0019270|hernia
+C0019342|genital herpes simplex nos
+C0019348|herpes simplex
+C0019360|herpes zoster
+C0019372|herpes virus infection
+C0019521|hiccups
+C0019572|hirsutism
+C0019623|angiocentric lymphoma
+C0019655|histoplasmosis
+C0019693|hiv infection
+C0020437|hypercalcemia
+C0020443|hypercholesterolemia
+C0020450|hyperemesis gravidarum
+C0020452|hyperaemia
+C0020453|hyperesthesia
+C0020456|hyperglycemia
+C0020458|hyperhidrosis
+C0020461|hyperkalemia
+C0020473|hyperlipidaemia, nos
+C0020481|hyperlipidemia, type v
+C0020502|hyperparathyroidism
+C0020514|hyperprolactinemia
+C0020517|sensitivity
+C0020541|hypertension, portal
+C0020544|hypertension, renal
+C0020550|hyperthyroidism
+C0020557|hypertriglyceridemia
+C0020580|hypoesthesia
+C0020598|hypocalcemia
+C0020604|hypochondriasis
+C0020615|hypoglycemia
+C0020619|hypogonadism
+C0020621|hypopotassaemia
+C0020625|hyponatremia
+C0020626|hypoparathyroidism
+C0020635|hypopituitarism
+C0020639|hypoproteinemia
+C0020649|low blood pressure
+C0020651|hypotension, orthostatic
+C0020676|hypothyroidism
+C0020877|ileitis
+C0020963|immune tolerance
+C0021051|immunodeficiency
+C0021053|immune system disorder (nos)
+C0021092|cerumen impaction
+C0021122|impulse control disorder
+C0021167|incontinence
+C0021294|prematurity
+C0021296|small-for-dates baby
+C0021313|kidney infection
+C0021355|otitis externa
+C0021359|infertile
+C0021361|infertility - female
+C0021368|inflammation
+C0021390|inflammatory bowel disease
+C0021400|influenza
+C0021655|insulin resistance
+C0021670|insulinoma
+C0021775|claudication, intermittent
+C0021776|explosive disorder, intermittent
+C0021818|intervertebral disk displacement
+C0021831|enteropathy
+C0021833|fistula, intestinal
+C0021843|intestinal obstruction
+C0022073|iridocyclitis
+C0022081|iritides
+C0022104|irritable bowel syndrome
+C0022107|irritability
+C0022281|itchy eyes
+C0022346|jaundice
+C0022363|fracture, jaw
+C0022408|arthropathy
+C0022602|keratosis nos
+C0022650|renal stone
+C0022658|renal disorder
+C0022729|klebsiella infection
+C0022876|premature labour
+C0022893|labyrinthitis
+C0022951|intolerance, lactose
+C0023066|laryngospasm
+C0023212|left ventricular failure
+C0023241|pneumonia legionella
+C0023269|leiomyosarcoma
+C0023380|lethargy
+C0023418|type leukemia
+C0023434|b-cell chronic lymphocytic leukaemia
+C0023443|hairy cell leukaemia
+C0023448|lymphocytic leukaemia
+C0023449|acute lymphatic leukemia
+C0023467|acute myeloid leukaemia
+C0023473|chronic myelogenous leukaemia
+C0023480|chronic myelomonocytic leukaemia
+C0023487|acute promyelocytic leukaemia
+C0023493|adult t-cell lymphoma/leukaemia
+C0023518|leucocytosis
+C0023524|progressive multifocal leucoencephalopathy
+C0023530|leukopenia
+C0023646|lichen planus
+C0023760|lip disorder
+C0023787|lipodystrophy
+C0023794|lipidosis
+C0023885|abscess, liver
+C0023890|cirrhosis
+C0023892|biliary cirrhosis
+C0023895|hepatic disease (nos)
+C0023896|alcoholic liver disease
+C0023903|hepatic neoplasm
+C0024110|abscess, lung
+C0024115|pulmonary disorder
+C0024117|chronic obstructive airways disease
+C0024121|lung neoplasm
+C0024137|cutaneous lupus erythematosus
+C0024141|lupus syndrome
+C0024143|lupus nephritis
+C0024198|lyme borreliosis
+C0024228|lymphangiopathy
+C0024236|lymphoedema
+C0024299|lymphoma
+C0024305|non hodgkin
+C0024314|lymphoproliferative disorder
+C0024440|cystoid macular oedema
+C0024441|macular hole
+C0024473|magnesium deficiency
+C0024586|carcinoid syndrome
+C0024623|cancer, stomach
+C0024790|paroxysmal nocturnal haemoglobinuria
+C0025218|melasma
+C0025289|meningitis
+C0025322|menopause, premature
+C0025323|heavy periods
+C0025345|menstrual disorder
+C0025362|mental retardation
+C0025517|metabolism disorder nos
+C0025874|metrorrhagia
+C0026265|mitral valve disease
+C0026266|mitral valve incompetence
+C0026267|mitral valve prolapse
+C0026272|mixed connective tissue disease
+C0026603|motion sickness
+C0026636|oral disorder
+C0026650|movement disorder (nos)
+C0026703|mucopolysaccharidosis
+C0026705|mucopolysaccharidosis ii
+C0026764|myeloma
+C0026769|multiple sclerosis
+C0026773|dissociative identity disorder
+C0026821|cramps
+C0026826|hypertonia
+C0026827|hypotonia
+C0026838|spasticity
+C0026848|myopathy
+C0026857|musculoskeletal disorder
+C0026858|musculoskeletal pain
+C0026896|myasthenia gravis
+C0026918|mycobacterium infection
+C0026919|atypical mycobacterial infection
+C0026946|mycosis
+C0026948|mycosis fungoides
+C0026961|dilated pupils
+C0027013|myeloid metaplasia
+C0027022|myeloproliferative disorder
+C0027051|infarction, myocardial
+C0027066|myoclonus
+C0027073|myofascial pain syndrome
+C0027121|myositis
+C0027145|myxoedema
+C0027339|nail disorder
+C0027404|narcolepsy
+C0027424|nasal stuffiness
+C0027430|nasal polyp
+C0027441|nasopharyngitis
+C0027497|nausea
+C0027531|neck injury
+C0027627|metastases
+C0027656|neoplasm, connective tissue
+C0027697|nephritis
+C0027719|nephrosclerosis
+C0027726|nephrotic syndrome
+C0027765|neurological disorder
+C0027769|nervous
+C0027794|neural tube defect
+C0027796|neuropathic pain
+C0027813|neuritis
+C0027819|neuroblastoma
+C0027932|neurosis
+C0027947|neutropenia
+C0028043|nicotine addiction
+C0028081|night sweat
+C0028084|nightmare
+C0028242|nocardiosis
+C0028432|nasal disorder
+C0028734|nocturnal frequency
+C0028754|obesity
+C0028790|cerebral artery occlusion
+C0028840|ocular hypertension
+C0028961|oliguria
+C0029001|onchocerciasis
+C0029118|opportunistic infection
+C0029121|defiant disorder, oppositional
+C0029191|orchitis
+C0029401|osteitis deformans
+C0029408|osteoarthritis
+C0029443|osteomyelitis
+C0029445|osteonecrosis
+C0029453|osteopenia
+C0029456|osteoporosis
+C0029882|middle ear inflammation
+C0029927|cyst ovary
+C0029928|ovarian disorder
+C0029944|overdose
+C0030252|palpitations
+C0030286|pancreatic disorder
+C0030299|pancreatic pseudocyst
+C0030312|pancytopenia
+C0030318|panic reaction
+C0030469|sinus disorder
+C0030517|parathyroid disorder
+C0030554|parasthesia
+C0030578|paronychia
+C0030807|pemphigus
+C0030920|peptic ulcer
+C0031037|periarthritis
+C0031039|effusion, pericardial
+C0031069|familial mediterranean fever
+C0031154|peritonitis
+C0031212|personality disorder
+C0031315|phantom pain
+C0031350|pharyngitis
+C0031542|phlebitis
+C0031572|social phobia
+C0031880|pickwickian syndrome
+C0032002|pituitary disorder
+C0032019|pituitary tumour
+C0032227|pleural effusion
+C0032231|pleurisy
+C0032285|pneumonia
+C0032290|aspiration pneumonia
+C0032300|lobar pneumonia
+C0032460|polycystic ovaries
+C0032461|polycythemia
+C0032463|polycythaemia vera
+C0032533|polymyalgia rheumatica
+C0032617|polyuria
+C0032633|dysidrosis
+C0032768|postherpetic neuralgia
+C0032897|prader-willi syndrome
+C0032914|pre-eclampsia
+C0033036|supraventricular extrasystoles
+C0033046|premenstrual syndrome
+C0033213|issue
+C0033246|proctitis
+C0033375|prolactinoma
+C0033575|prostatic disorder
+C0033581|prostatitis
+C0033700|proteus infection
+C0033774|itch
+C0033777|genital pruritus
+C0033817|infection pseudomonas
+C0033822|pseudomyxoma peritonei
+C0033845|benign intracranial hypertension
+C0033860|psoriases
+C0033893|tension headaches
+C0033931|psychosomatic disease
+C0033936|alcoholic psychosis
+C0033975|psychotic disorder
+C0034013|true precocious puberty
+C0034063|pulmonary oedema
+C0034065|pulmonary embolus
+C0034069|pulmonary fibrosis
+C0034074|pulmonary infarction
+C0034091|pulmonary venous occlusion
+C0034155|purpura, thrombotic thrombocytopenic
+C0034186|pyelonephritis
+C0034544|radiculitis
+C0034734|raynaud
+C0034886|rectal pain
+C0034902|red cell aplasia
+C0035067|renal artery stenosis
+C0035078|failure, renal
+C0035086|rod
+C0035204|respiratory disorder (nos)
+C0035220|neonatal respiratory distress syndrome
+C0035222|acute respiratory distress syndrome
+C0035243|respiratory tract infection
+C0035258|restless legs syndrome
+C0035309|retinopathy
+C0035317|retinal haemorrhage
+C0035328|retinal vein occlusion
+C0035335|retinoblastoma
+C0035369|retroviral infection
+C0035404|rh isoimmunisation
+C0035412|rhabdomyosarcoma
+C0035455|rhinitis
+C0035522|rib fracture
+C0035854|rosacea
+C0036202|sarcoidosis
+C0036205|pulmonary sarcoidosis
+C0036337|schizo affective disorder
+C0036341|schizophrenia
+C0036396|sciatica
+C0036416|scleritis
+C0036421|systemic scleroderma
+C0036508|seborrhoea
+C0036572|convulsions
+C0036690|septicaemia, nos
+C0036974|circulatory failure
+C0036980|cardiogenic shock
+C0036983|septic shock
+C0036992|short-bowel syndrome
+C0037011|shoulder pain
+C0037036|salivary hypersecretion
+C0037195|sinus headache
+C0037199|sinusitis
+C0037274|dermatosis
+C0037278|skin infection
+C0037284|skin lesion
+C0037299|skin ulcer
+C0037301|skin wrinkling
+C0037315|sleep apnoea
+C0037320|terror, sleep
+C0037383|sneezing
+C0037579|soft tissue neoplasm
+C0037650|somatoform disorder
+C0037763|spasm
+C0037769|infantile spasms
+C0037926|compression, spinal cord
+C0037929|injury, spinal cord
+C0037933|spinal disorder
+C0038002|splenomegaly
+C0038012|spondylitis
+C0038013|ankylosing spondylitis
+C0038016|spondylolisthesis
+C0038160|staphylococcus infection
+C0038166|staphylococcal skin infection
+C0038218|status asthmaticus
+C0038220|status epilepticus
+C0038325|stevens johnson syndrome
+C0038340|sting
+C0038354|gastric disorder
+C0038358|gastric ulceration
+C0038362|stomatitis
+C0038435|stress
+C0038436|posttraumatic stress disorder
+C0038449|arterial stenosis
+C0038454|stroke
+C0038587|withdrawal syndrome
+C0038663|attempted suicide
+C0039070|syncope
+C0039082|syndrome
+C0039128|syphilis
+C0039231|tachycardia
+C0039319|syndrome, tarsal tunnel
+C0039437|teething
+C0039445|hereditary haemorrhagic telangiectasia
+C0039496|tmj syndrome
+C0039503|tendonitis
+C0039730|thalassaemia nos
+C0039841|vitamin b 1 deficiency
+C0040021|thromboangitis obliterans
+C0040028|essential thrombocythaemia
+C0040034|thrombopenia
+C0040046|thrombophlebitis
+C0040100|thymoma
+C0040128|thyroid disorder
+C0040147|thyroiditis
+C0040213|slipping rib syndrome
+C0040247|ringworm
+C0040259|tinea pedis
+C0040261|nail tinea
+C0040425|tonsillitis
+C0040435|tooth disorder
+C0040460|tooth ache
+C0040485|torticollis
+C0040558|toxoplasmosis
+C0040584|tracheitis
+C0040759|transposition, nos
+C0040797|traumatic haemorrhage
+C0040961|incompetence, tricuspid valve
+C0040997|neuralgia, trigeminal
+C0041296|tuberculosis
+C0041327|pulmonary tuberculosis
+C0041341|sclerosis, tuberous
+C0041349|tubulo-interstitial nephritis
+C0041582|ulcer
+C0041755|side effect, drug
+C0041834|erythema
+C0041909|upper gastrointestinal haemorrhage
+C0041912|infection, upper respiratory tract
+C0042023|micturition frequency
+C0042025|stress urinary incontinence
+C0042035|micturition disorder
+C0042075|urinary tract disorder
+C0042109|urticaria
+C0042133|fibroids
+C0042134|uterine haemorrhage
+C0042251|vaginal disorder
+C0042345|varicose veins
+C0042373|angiopathy
+C0042485|insufficiency, venous
+C0042487|vein thrombosis
+C0042510|fibrillation, ventricular
+C0042514|tachycardia, ventricular
+C0042571|vertigo
+C0042594|vestibular disorder
+C0042749|viremia
+C0042769|infection, viral
+C0042847|vitamin b12 deficiency
+C0042850|unspecified vitamin b deficiency
+C0042870|unspecified vitamin d deficiency
+C0042875|vitamin e deficiency
+C0042880|vitamin k deficiency
+C0042963|vomiting
+C0043144|wheeze
+C0043241|wound infection
+C0043246|tear
+C0043250|wound
+C0043345|xerodermia
+C0043352|aptyalism
+C0079238|gastrointestinal fistula
+C0079487|infection, helicobacter
+C0079731|b cell lymphoma
+C0079744|diffuse large b-cell lymphoma
+C0079746|immunoblastic lymphoma
+C0079772|t cell lymphoma
+C0080179|vertebral fracture
+C0080194|muscle strain
+C0080203|tachyarrhythmia
+C0080274|urinary retention
+C0085082|fungemia
+C0085096|peripheral vascular disease
+C0085129|bronchial hyperactivity
+C0085160|hydradenitis
+C0085166|bacterial vaginosis
+C0085207|gestational diabetes
+C0085222|psoas abscess
+C0085278|antiphospholipid syndrome
+C0085315|cerebral toxoplasmosis
+C0085580|primary hypertension
+C0085593|chills
+C0085605|hepatic failure
+C0085617|arterial spasm
+C0085624|burning sensation
+C0085628|stupor
+C0085631|agitation
+C0085632|indifference
+C0085633|altered mood
+C0085639|fall
+C0085652|pyoderma gangrenosum
+C0085655|polymyositis
+C0085662|macrocytosis
+C0085681|hyperphosphatemia
+C0085695|chronic gastritis
+C0085762|alcohol abuse
+C0086132|symptom, depressive
+C0086438|hypogammaglobulinaemia
+C0086543|cataract
+C0086769|panic attack
+C0087136|single
+C0149512|acute sinusitis
+C0149516|chronic sinusitis
+C0149654|conduct disorder
+C0149678|epstein barr virus infection
+C0149725|chest cold
+C0149745|mouth ulcer
+C0149756|fasciitis, plantar
+C0149770|abscess, rectal
+C0149778|soft tissue infection
+C0149801|urosepsis
+C0149836|atrophic vulvovaginitis
+C0149871|dvt nos
+C0149889|anal fistula
+C0149925|lung cancer, small cell
+C0149931|migraine
+C0149958|complex partial seizures
+C0150045|urge incontinence
+C0151313|sensory neuropathy
+C0151482|anemia folate deficiency
+C0151603|generalized oedema
+C0151605|injection site swelling
+C0151625|enzyme abnormality (nos)
+C0151636|premature ventricular contractions
+C0151686|growth retardation
+C0151702|muscle hemorrhage
+C0151713|hyperchlorhydria
+C0151721|hypogonadism male
+C0151723|hypomagnesemia
+C0151735|injection site reaction (nos)
+C0151744|ischaemic heart disease, nos
+C0151779|melanoma, malignant
+C0151785|mucosal disorder
+C0151786|muscular weakness
+C0151874|pulmonary mycosis
+C0151908|dry skin
+C0151946|pulmonary thrombosis
+C0151966|duodenal ulcer hemorrhage
+C0151970|oesophageal ulcer
+C0152002|renal vasculitis
+C0152013|adenocarcinoma lung
+C0152018|oesophageal carcinoma
+C0152025|polyneuropathy
+C0152027|sensory disorder
+C0152029|sinus congestion
+C0152030|skin irritation
+C0152031|joint swelling
+C0152081|psoriasis, pustular
+C0152089|post-laminectomy syndrome
+C0152093|hypermobility syndrome
+C0152105|hypertensive heart disease
+C0152128|drug withdrawal
+C0152169|colic, renal
+C0152915|disseminated tuberculosis
+C0152965|staphylococcal bacteremia
+C0153251|candidal pneumonia
+C0153252|systemic candida
+C0153381|oral cavity cancer
+C0153452|cancer, gallbladder
+C0153467|malignant peritoneal neoplasm
+C0153489|tracheal cancer
+C0153567|uterine cancer
+C0153579|fallopian tube cancer
+C0153594|cancer, testis
+C0153633|brain cancer
+C0154251|lipid metabolism disorder
+C0155169|ocular hyperaemia
+C0155626|acute myocardial infarction
+C0155773|portal vein thrombosis
+C0155919|acute pulmonary oedema nos
+C0156543|abortion
+C0157741|idiopathic urticaria
+C0158026|monoarthritis
+C0158252|intervertebral disk disorder
+C0158266|degenerative disc disease
+C0158280|cervical spinal stenosis
+C0158281|cervicobrachial syndrome
+C0158288|lumbar spinal stenosis
+C0159066|abdominal rigidity
+C0161479|nerve injury
+C0162287|abnormal feces
+C0162298|stiff joint
+C0162311|baldness, male pattern
+C0162316|iron deficiency anaemia nos
+C0162323|unspecified inflammatory polyarthropathy
+C0162429|deficit, nos
+C0162539|igg subclass deficiency
+C0162643|failure, treatment
+C0162834|skin hyperpigmentation
+C0178282|abdominal hernia
+C0178874|neoplasm progression
+C0178879|obstructive uropathy, nos
+C0205721|hospital-acquired infection
+C0205945|sarcoma, spindle cell
+C0206062|interstitial lung disease
+C0206138|crest syndrome
+C0206172|diabetic foot
+C0206624|hepatoblastoma
+C0206686|adrenal carcinoma
+C0206695|carcinoma, neuroendocrine
+C0206698|cholangiocarcinoma
+C0206716|ganglioglioma
+C0206754|neuroendocrine tumour
+C0220656|malignant ascites
+C0220981|acidosis, metabolic
+C0220983|alkalosis, metabolic
+C0220994|hyperammonemia
+C0221056|dermatomyositis
+C0221074|postnatal depression
+C0221150|odynophagia
+C0221166|paraparesis
+C0221198|lesion
+C0221204|bone lysis
+C0221244|dandruff
+C0221245|skin fissures
+C0221248|gouty tophus
+C0221406|pituitary cushing
+C0221706|road traffic accident
+C0221727|oesophageal pain
+C0221757|alpha-1 anti-trypsin deficiency
+C0227791|vaginal discharge
+C0231218|discomfort
+C0231224|crisis
+C0231528|muscle soreness
+C0231529|tendon pain
+C0231530|muscle twitching
+C0231683|normal
+C0231919|nasal dryness
+C0232461|increased appetite
+C0232462|decreased appetite
+C0232487|abdominal discomfort
+C0232570|epigastric discomfort
+C0232602|retching
+C0232605|regurgitation
+C0232841|bladder dysfunction
+C0232943|menometrorrhagia
+C0233401|psychiatric symptoms
+C0233407|disorientation
+C0233459|emotional disorder
+C0233494|tension
+C0233514|abnormal behaviour
+C0233629|thinking, nos
+C0234119|neuromuscular block
+C0234251|inflammatory pain
+C0234387|cerebral disorder
+C0234458|abnormal dreams
+C0234974|simple partial seizures
+C0235136|agitated depression
+C0235150|feeling cold
+C0235162|difficulty sleeping
+C0235195|sedation
+C0235266|eye irritation
+C0235309|upset stomach
+C0235325|gastric haemorrhage
+C0235522|vein disorder
+C0235527|heart failure, right
+C0235653|breast cancer female
+C0235710|chest discomfort
+C0235833|congenital diaphragmatic hernia
+C0235950|zinc deficiency
+C0235974|pancreatic carcinoma
+C0236024|pharyngeal oedema
+C0236065|edema mouth
+C0236075|menopausal symptoms
+C0236663|alcohol withdrawal syndrome
+C0236720|flashback
+C0236788|bipolar ii disorder
+C0237123|substance use
+C0237326|painful defecation
+C0237849|skin exfoliation
+C0237938|gastrointestinal ulcer
+C0238074|chronic pulmonary heart disease
+C0238106|c difficile colitis
+C0238111|lennox-gastaut syndrome
+C0238196|small intestine carcinoma
+C0238198|gastrointestinal stromal tumour
+C0238217|kidney transplant rejection
+C0238463|thyroid papillary carcinoma
+C0238634|anal inflammation
+C0238792|bone lesion
+C0239134|cough, productive
+C0239295|oesophageal candidiasis
+C0239313|exercise induced
+C0239602|finger ulcer
+C0239783|groin pain
+C0239946|hepatic fibrosis
+C0239978|frequent bowel movements
+C0239981|hypoalbuminaemia
+C0240066|iron deficiency
+C0240903|rheumatoid vasculitis
+C0241158|skin scar
+C0241237|dysstasia
+C0241513|tsh decrease
+C0241618|vaginal burning sensation
+C0241910|autoimmune hepatitis
+C0241934|hypomania
+C0241961|angiomyolipoma
+C0242073|lung congestion
+C0242184|hypoxia
+C0242339|dyslipidemia
+C0242342|hypopituitarism, postpartum
+C0242343|panhypopituitarism
+C0242362|intervertebral disc protrusion
+C0242383|macular degeneration
+C0242420|retinal oedema nos
+C0242422|parkinsonism
+C0242453|prostatism
+C0242584|autoimmune thrombocytopenia
+C0242648|vertical infection transmission
+C0242666|protein s deficiency
+C0242698|left ventricular dysfunction
+C0242707|right ventricular dysfunction
+C0242973|ventricular dysfunction
+C0243033|maternal exposure
+C0243065|aplasia
+C0259749|autonomic neuropathy
+C0262428|collagen vascular disease
+C0262431|spinal compression fracture
+C0262469|embolic stroke
+C0262593|peripheral nerve injury
+C0262613|renal mass
+C0262655|urinary tract infection
+C0263338|chronic urticaria
+C0263445|acne fulminans
+C0263725|haemophilic arthropathy
+C0263888|back disorder
+C0263912|rotator cuff syndrome
+C0264490|acute respiratory failure
+C0264492|chronic respiratory failure
+C0264766|mitral valve stenosis nos
+C0264886|cardiac arrythmia
+C0264939|polyangiitis
+C0265000|ischemic ulcer
+C0265050|vena cava thrombosis
+C0265783|pulmonary hypoplasia
+C0267055|erosive oesophagitis
+C0267158|reflux gastritis
+C0267370|angiodysplasia
+C0267465|intestinal stenosis
+C0267596|rectal haemorrhage
+C0267963|insufficiency, pancreatic
+C0268000|body fluid retention
+C0268151|galactosemia
+C0268390|muckle-wells syndrome
+C0268407|cardiac amyloidosis
+C0268790|renal vessel disorder
+C0269131|female genital tract fistula
+C0270549|generalised anxiety disorder
+C0270611|brain injury
+C0270612|leukoencephalopathy
+C0270629|abscess, extradural
+C0270736|essential tremor
+C0270810|peroneal nerve palsy
+C0270850|idiopathic generalised epilepsy
+C0270853|juvenile myoclonic epilepsy
+C0270996|eye swelling
+C0271051|macular oedema
+C0271468|eustachian tube dysfunction
+C0271561|growth hormone deficiency
+C0271578|hypogonadism female
+C0271623|gonadotropin deficiency
+C0271738|secondary adrenocortical insufficiency
+C0272126|evans syndrome
+C0272236|hyper igm syndrome
+C0272285|heparin induced thrombocytopaenia
+C0273482|nerve compression
+C0274281|exposure nos
+C0274702|cholinergic syndrome
+C0276226|herpes simplex encephalitis
+C0276651|aspergilloma
+C0276687|disseminated cryptococcosis
+C0277524|infectious colitis
+C0277785|dysfunction
+C0278147|radicular pain
+C0278151|facial spasm
+C0278484|metastatic colon cancer
+C0278488|breast cancer stage iv
+C0278498|metastatic gastric cancer
+C0278678|metastatic renal cell carcinoma
+C0278687|ovarian cancer stage iii
+C0278996|head and neck cancer
+C0279628|oesophageal adenocarcinoma nos
+C0279637|anal cancer
+C0279680|bladder transitional cell carcinoma
+C0279702|clear cell renal cell carcinoma
+C0280141|acute leukemia not otherwise specified
+C0280202|stage, renal cell carcinoma
+C0280217|stage, non-small cell lung cancer
+C0280253|gastric cancer stage
+C0280280|prostate cancer stage
+C0280313|oropharyngeal squamous cell carcinoma
+C0280631|uterine leiomyosarcoma
+C0281361|adenocarcinoma - pancreas
+C0281774|acute psychosis
+C0301631|hypoosmolarity
+C0301816|inappropriate hormone secretion
+C0302592|cervix carcinoma
+C0311245|congenital cystic kidney disease
+C0311389|urethritis
+C0314719|xerophthalmia
+C0332563|papule
+C0332798|open wound
+C0333106|varices hemorrhage
+C0333291|ulcer bleeding
+C0333355|mucosal inflammation
+C0333559|infarction, lacunar
+C0333641|atrophy
+C0334044|dysplasia
+C0334094|proliferative
+C0334299|carcinoid tumour
+C0334579|anaplastic astrocytoma
+C0334634|mantle cell lymphoma
+C0337671|ex-smoker
+C0338831|mania
+C0339807|house dust allergy
+C0340464|extrasystoles
+C0340517|atrial thrombosis
+C0341012|oral herpes
+C0341164|gastric ulcer hemorrhage
+C0341858|adenomyosis
+C0342199|iodine deficiency
+C0342245|diabetic eye disease
+C0342386|follicle stimulating hormone deficiency
+C0342387|luteinizing hormone deficiency
+C0342405|pituitary infarction
+C0342409|hypophysitis
+C0342527|androgen deficiency
+C0342579|electrolyte imbalance
+C0342788|carnitine deficiency
+C0343026|nail infection
+C0343052|guttate psoriasis
+C0343378|helicobacter pylori gastritis
+C0343386|clostridium difficile infection
+C0343755|hiv wasting syndrome
+C0344307|analgesia
+C0344315|low mood
+C0345904|hepatic cancer
+C0346109|peritoneal mesothelioma
+C0346616|malignant respiratory tract neoplasm
+C0347390|skin papilloma
+C0349231|phobia
+C0349782|ischemic cardiomyopathy
+C0376286|hypovitaminosis
+C0376358|prostate cancer
+C0376544|hematopoietic neoplasm
+C0376545|malignancy, hematological
+C0376620|pouchitis
+C0392156|acathisia
+C0392164|cystic fibrosis lung
+C0392495|esophageal web
+C0392519|calcium deficiency
+C0392525|renal lithiasis
+C0392699|dysaesthesia
+C0392707|atopy
+C0393571|multiple system atrophy
+C0393760|trouble falling asleep
+C0393761|middle insomnia
+C0398597|histiocytosis
+C0398623|hypercoagulation
+C0398625|protein c deficiency
+C0398650|idiopathic thrombocytopenic purpura
+C0398795|secondary immunodeficiency
+C0400968|liver transplant rejection
+C0401013|fungal peritonitis
+C0403608|ureter disorder
+C0404521|vaginitis nos
+C0405580|adrenocortical insufficiency
+C0406486|ocular rosacea
+C0409497|joint injury
+C0409679|seronegative arthritis
+C0410256|muscle injury
+C0422837|nervous system
+C0423006|eye discharge
+C0423153|tearing
+C0423571|abnormal sensation
+C0424000|suicidal ideation
+C0424589|energy
+C0425245|mobility
+C0425402|medical diet nos
+C0426390|bladder spasm
+C0426732|enlarged prostate
+C0427008|'stiffness'
+C0428908|sinus node dysfunction
+C0428977|bradycardia
+C0432487|post-transplant lymphoproliferative disorder
+C0435002|ligament sprain nos
+C0435492|fractured sacrum
+C0439857|dependence
+C0442874|neuropathy
+C0443343|unstable
+C0455204|homicidal ideation
+C0456511|paralysis, sleep
+C0456673|sputum retention
+C0456984|test
+C0458219|complex regional pain syndrome
+C0475765|nasal oedema
+C0476254|dyslexia
+C0476273|distress, respiratory
+C0494261|combined immunodeficiency
+C0494475|generalized tonic-clonic seizure
+C0497156|lymphadenopathy
+C0497406|overweight
+C0517356|libido
+C0518443|skin abrasion
+C0518988|dental abscess
+C0519030|pneumonia klebsiella
+C0520477|prostatic adenoma
+C0520547|poor peripheral circulation
+C0520587|vulvovaginal discomfort
+C0520588|vulvovaginal pain
+C0520589|vulvovaginal dryness
+C0520665|menopausal depression
+C0520676|premenstrual dysphoric disorder
+C0520804|intentional overdose
+C0520863|diastolic dysfunction
+C0520886|st segment elevation
+C0521169|compression fracture
+C0521530|lung consolidation
+C0521542|brainstem stroke
+C0521839|influenza like illness
+C0522063|impaired gastric emptying
+C0522224|paralysis
+C0524620|insulin resistance syndrome
+C0524851|neurodegenerative disorder
+C0524909|hepatitis b, chronic
+C0524910|chronic hepatitis c
+C0525045|mood disorder
+C0542052|coronary insufficiency
+C0542538|sensation, nos
+C0544688|disease complication
+C0546817|hypervolemia
+C0546884|hypovolemia
+C0546959|atrial tachycardia
+C0549201|asteatosis
+C0549397|nasal septum deviation
+C0549567|pigmentation disorder
+C0549583|acneform
+C0549622|sexual disorder
+C0553576|systemic mycosis
+C0553692|haemorrhagic stroke
+C0553713|breast pain
+C0554309|azotemia
+C0555971|oral infection
+C0558489|renal pain
+C0559031|functional gastrointestinal disorder
+C0559546|adverse reaction
+C0567312|menopause
+C0570562|contrast media allergy
+C0574785|lower urinary tract symptoms
+C0575081|gait disturbance
+C0575090|balance disorder
+C0577559|mass
+C0578051|oral pain
+C0584960|factor v leiden mutation
+C0585442|osteosarcoma
+C0586323|seizure, alcoholic
+C0595862|vasodilatation
+C0595888|hypophosphatemia
+C0595921|intraocular pressure
+C0595950|detachment
+C0596170|binge eating
+C0596240|cancer pain
+C0598798|lymphoid neoplasm
+C0600104|compulsions
+C0600142|hot flushes
+C0600260|obstructive airways disorder
+C0600518|choroidal neovascularization
+C0600688|toxic
+C0677659|reflux oesophagitis
+C0677886|ovarian epithelial cancer
+C0677936|refractory cancer
+C0678189|pure hypercholesterolemia
+C0679317|hypomotility
+C0684256|bacterial sepsis
+C0684275|haemophilia
+C0684284|face-lift
+C0686347|tardive dyskinesia
+C0687713|gastrointestinal pain
+C0699744|ear infection
+C0700124|dilatation
+C0700148|congestion
+C0700184|itchy throat
+C0700201|dyssomnia
+C0700208|scoliosis
+C0700323|neuromuscular blockade
+C0700502|acquired hypothyroidism
+C0700594|radicular syndrome
+C0701836|thermal burn
+C0702159|congenital aplastic anemia
+C0702166|acne
+C0728951|appendix cancer
+C0740277|bile duct cancer
+C0740281|multiple allergies
+C0740394|hyperuricemia
+C0740409|psychotic behavior
+C0740457|renal cancer
+C0740858|substance abuse
+C0742186|cervical radiculopathy
+C0742472|central nervous system lymphoma
+C0743284|drug exposure
+C0743668|limb injury
+C0746883|febrile neutropenia
+C0748052|erythrodermic psoriasis
+C0751265|learning disability
+C0751495|partial seizures
+C0751571|malignant urinary tract neoplasm
+C0751759|non-24 hour sleep-wake disorder
+C0751774|periodic limb movement disorder
+C0751965|multiple sclerosis, secondary progressive
+C0751967|multiple sclerosis, relapsing-remitting
+C0812413|pleural mesothelioma
+C0836924|thrombocytosis
+C0849796|ear congestion
+C0849963|feeling jittery
+C0850060|nasal pruritus
+C0850725|stump pain
+C0850758|pelvic pain
+C0850803|anaphylaxis
+C0851578|sleep disorder
+C0851807|aspergillus infection
+C0851881|enterococcal infection
+C0851886|pneumocystis infection
+C0852036|hypertension, pregnancy-induced
+C0852733|completed suicide
+C0852875|eye allergy
+C0852949|arteriopathic disease
+C0853089|intentional self-injury
+C0853193|bipolar i disorder
+C0853348|arthropod bite
+C0853697|granulocytopenia
+C0853708|sle arthritis
+C0854077|diabetic retinal edema
+C0854121|gastrointestinal motility disorder
+C0854326|escherichia infection
+C0854381|genital haemorrhage
+C0854416|pulmonary vascular disorder
+C0854441|gastric mucosa lesion
+C0854504|enterococcus bacteraemia
+C0854987|lung adenocarcinoma stage iii
+C0855095|b-cell small lymphocytic lymphoma
+C0856054|mental status changes
+C0856825|acute graft versus host disease
+C0857305|thrombocytopaenic purpura
+C0858635|pharyngolaryngeal pain
+C0860207|drug induced liver injury
+C0860594|malignant melanoma, metastatic
+C0867389|chronic graft versus host disease
+C0870082|hyperkeratosis
+C0871747|fetal exposure
+C0876973|lung infection
+C0876998|intracardiac thrombus
+C0877008|enzyme inhibition
+C0877013|restrictive pulmonary disease
+C0877046|tooth infection
+C0877048|oral fungal infection
+C0877072|cytomegalovirus chorioretinitis
+C0877107|sinobronchitis
+C0877119|cytomegalovirus oesophagitis
+C0877153|neutropenic sepsis
+C0877248|adverse event
+C0877266|upper respiratory tract inflammation
+C0877322|muscle tightness
+C0877635|cytomegalovirus viremia
+C0877792|circadian rhythm sleep disorder
+C0878544|cardiomyopathy
+C0878773|hypertonic bladder
+C0917799|hypersomnia
+C0917805|transient cerebral ischaemia nos
+C0919659|oropharyngeal candidiasis
+C0919737|platelet aggregation inhibition
+C0919746|engraftment syndrome
+C0919874|post procedural hemorrhage
+C0920187|congenital neuropathy
+C0920350|autoimmune thyroiditis
+C0936215|vitamin b 6 deficiency
+C0948008|ischemic stroke
+C0948089|acute coronary syndrome
+C0948268|hemodynamic instability
+C0948348|tumor associated fever
+C0948349|respiratory tract congestion
+C0948441|venous occlusion
+C0948482|analgesic effect
+C0948715|infusion related reaction
+C0948779|gastrointestinal hypomotility
+C0994344|lung, rheumatoid
+C1096106|wound complication
+C1096116|acquired haemophilia
+C1096197|immune reconstitution syndrome
+C1096253|cardiac infection
+C1112160|gastroesophageal cancer
+C1112773|post procedural diarrhea
+C1134719|breast cancer, invasive ductal
+C1135120|breakthrough pain
+C1140680|ovarian cancer
+C1142300|clostridium colitis
+C1142435|general physical condition
+C1145670|failure, respiratory
+C1171258|complications
+C1257843|pseudomembraneous colitis
+C1258215|ileus
+C1260880|runny nose
+C1261287|stenosis
+C1261473|malignant soft tissue neoplasm
+C1261562|irritable bladder
+C1262113|lipohypertrophy
+C1263846|attention deficit-hyperactivity disorder
+C1263855|lumbar radiculopathy
+C1269683|major depressive disorder
+C1271104|blood pressure
+C1274960|erythrodysaesthesia syndrome
+C1290375|mesothelioma
+C1292769|b-cell type acute leukemia
+C1292778|myeloproliferative neoplasm
+C1299262|sarcoma
+C1299624|postural orthostatic tachycardia syndrome
+C1302853|squamous cell carcinoma
+C1306459|malignant neoplasm
+C1306889|peripheral arterial occlusive disease
+C1313949|hypoglobulinemia
+C1319315|colorectal adenocarcinoma
+C1320716|cardiovascular event
+C1327709|rectosigmoid cancer
+C1328504|hormone refractory prostate cancer
+C1332629|proliferative breast lesion
+C1334715|metastatic carcinoid tumour
+C1337011|pancreatic neuroendocrine tumor
+C1363945|therapy
+C1373218|immunosuppression
+C1384493|catarrh
+C1384589|tinea cruris
+C1384606|dyspareunia
+C1397014|imbalance
+C1449563|cardiomyopathy, congestive
+C1456784|paranoia
+C1457897|congenital hypogammaglobulinemia
+C1504561|hypophagia
+C1510428|brain abscess
+C1510472|addiction, drug
+C1510586|autism spectrum disorder
+C1511021|braf gene mutation
+C1511022|brca1 gene mutation
+C1513916|negative
+C1514241|positive
+C1522057|duodenitis
+C1522133|high cholesterol
+C1527249|colorectal cancer
+C1527304|allergy
+C1527311|brain swelling
+C1527344|dysphonia
+C1535939|pneumocystis carini pneumonia
+C1535950|gastrointestinal inflammation
+C1536021|dysbacteriosis
+C1561643|chronic kidney disease
+C1565489|renal insufficiency
+C1608410|head titubation
+C1609538|latent tuberculosis
+C1619738|immune reconstitution inflammatory syndrome
+C1623040|breast feeding
+C1692886|septic arthritis
+C1698484|mucosal infection
+C1698618|ex-tobacco user
+C1704212|embolism, nos
+C1704258|abnormality
+C1704268|persecutory delusion
+C1704272|bph
+C1705285|mutation
+C1800706|fibrosis, idiopathic pulmonary
+C1868649|panic disorder
+C1868822|fistula discharge
+C1868851|portopulmonary hypertension
+C1882062|neoplasm
+C1883486|endometrial cancer
+C1955690|extranodal marginal zone b-cell lymphoma
+C1956391|arteritis, temporal
+C1959629|seizure
+C1959630|eye pain
+C1961099|t-cell type acute leukemia
+C1961100|erectile dysfunction
+C1961130|exostosis
+C1961131|cough
+C1962954|cheilitis
+C1962956|flatulence
+C1962957|flushing
+C1962967|retinoic acid syndrome
+C1962972|proteinuria
+C1962973|incontinence, urinary
+C1962977|pain nos
+C1962986|glaucoma
+C1963065|apnea
+C1963068|atrial flutter
+C1963071|back pain
+C1963077|bone pain
+C1963083|cholecystitis
+C1963084|colitis
+C1963087|constipation
+C1963088|cystitis
+C1963091|diarrhea
+C1963093|dizziness
+C1963120|gynecomastia
+C1963134|hemorrhoids
+C1963138|hypertension
+C1963148|iron overload
+C1963154|renal failure
+C1963165|malabsorption
+C1963167|memory impairment
+C1963169|multi-organ failure
+C1963176|bladder pain
+C1963180|neck pain
+C1963198|pancreatitis
+C1963211|pericarditis
+C1963220|pulmonary hypertension
+C1963237|insomnia
+C1963244|supraventricular tachycardia
+C1963246|sinus tachycardia
+C1963249|tinnitus
+C1963252|tremor
+C1963254|tumor lysis syndrome
+C1963255|tumor pain
+C1963266|uveitis
+C1963274|vasculitis
+C1963280|vitreous hemorrhage
+C1963790|vulvovaginal burning
+C2047520|mixed hyperlipidemia
+C2047937|ill defined disorder
+C2076600|h1n1 influenza
+C2169806|tics
+C2219717|amenorrhea
+C2237660|neovascular age related macular degeneration
+C2239176|hepatocellular carcinoma
+C2315100|failure to thrive
+C2316212|cryopyrin associated periodic syndrome
+C2347126|microscopic polyangiitis
+C2348819|triple-negative breast cancer
+C2350242|spinal osteoarthritis
+C2350530|bronchopulmonary aspergillosis
+C2364164|fluid imbalance
+C2586211|thrombosis
+C2609059|antisynthetase syndrome
+C2609414|acute kidney injury
+C2700378|ejection fraction
+C2711227|steatohepatitis
+C2711956|right to left cardiac shunt
+C2717961|microangiopathy, thrombotic
+C2741638|stress ulcer
+C2826292|scan
+C2830004|sleepiness
+C2919015|anticoagulation
+C2937358|cerebral hemorrhage
+C2979982|vaginal bleeding
+C2983689|unspecified
+C3160715|mixed
+C3203102|pulmonary arterial hypertension
+C3203358|hypoventilation
+C3250649|cancer stage iv
+C3263722|injury
+C3266992|egfr gene mutation
+C3463824|myelodysplastic syndrome
+C3489393|hiatus hernia
+C3495559|juvenile rheumatoid arthritis
+C3537442|pathologic myopia
+C3542022|soft
+C3665347|visual impairment
+C3665349|hypothyroidism, secondary
+C3714756|intellectual disability
+C3841811|transplant
+C3842678|light
+C3853727|tobacco user
+C3854222|human immunodeficiency virus
+C3887524|skin erosion
+C3887612|psychomotor hyperactivity
+C4049006|selective iga immunodeficiency
